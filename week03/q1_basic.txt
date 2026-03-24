@@ -1,3 +1,5 @@
+姓名：温鶴翔
+學號：C112181120
 === 任務 1：建立目錄結構 ===
 mkdir -p project/src project/bin project/docs
 ls -R project
