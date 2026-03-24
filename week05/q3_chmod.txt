@@ -36,9 +36,9 @@ A3：為什麼要加 +x？
 bash script.sh：請 Bash 程式去讀裡面的內容（只要有讀取權限即可）。
 
 sh script.sh：同上，換成 sh 執行。
-student221@linux-server2:~$ cat week05/q3_chmod.txt
-姓名:李翊銘
-學號:C112181181
+student120@linux-server2:~$ cat week05/q3_chmod.txt
+姓名:温鶴翔
+學號:C112181120
 Q1：請說明 chmod 755 代表什麼權限，擁有者、群組、其他人各能做什麼？
 A1：chmod 755 (常用的程式/資料夾權限)
 這代表：「我全拿，其他人只能讀跟跑。」
