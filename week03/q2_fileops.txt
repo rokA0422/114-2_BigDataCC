@@ -1,3 +1,17 @@
-=== 大數據模型 ===
-=== 大數據模型 ===
-=== 大數據模型 ===
+=== 任務 1 ===
+ls -l
+
+=== 任務 2 ===
+cat /etc/passwd
+
+=== 任務 3 ===
+head -n 5 /etc/passwd
+
+=== 任務 4 ===
+tail -n 5 /etc/passwd
+
+=== 任務 5 ===
+grep "root" /etc/passwd
+
+=== 任務 6 ===
+wc -l /etc/passwd
