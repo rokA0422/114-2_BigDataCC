@@ -14,9 +14,9 @@ cat ~/intro.txt
 
 student221@linux-server2:~$ cat ~/intro.txt
 
-姓名：李翊銘
+姓名：温鶴翔
 
-學號：C112181181
+學號：C112181120
 
 系所：海事資訊科技系
 
@@ -28,14 +28,14 @@ student221@linux-server2:~$ cat ~/intro.txt
 student221@linux-server2:~$ vi ~/intro.txt
 student221@linux-server2:~$ vi ~/intro.txt
 student221@linux-server2:~$ cat ~/intro.txt
-姓名：李翊銘
-學號：C112181101
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
 日期：Tue Mar 24 06:35:02 UTC 2026
-姓名：李翊銘
-學號：C112181181
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
@@ -43,15 +43,15 @@ student221@linux-server2:~$ cat ~/intro.txt
 
 student221@linux-server2:~$ vi ~/intro.txt
 student221@linux-server2:~$ cat ~/intro.txt
-姓名：李翊銘
-學號：C112181101
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
 日期：Tue Mar 24 06:35:02 UTC 2026
 Vi版本
-姓名：李翊銘
-學號：C112181181
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
@@ -62,8 +62,8 @@ Vi版本
 
 儲存後用 cat 顯示完整內容：
 student221@linux-server2:~$ cat ~/intro.txt
-姓名：李翊銘
-學號：C112181181
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
@@ -71,15 +71,15 @@ student221@linux-server2:~$ cat ~/intro.txt
 student221@linux-server2:~$ vi ~/intro.txt
 student221@linux-server2:~$ cat ~/intro.txt
 
-姓名：李翊銘
-學號：C112181101
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
 日期：Tue Mar 24 06:35:02 UTC 2026
 Vi版本
-姓名：李翊銘
-學號：C112181181
+姓名：温鶴翔
+學號：C112181120
 系所：海事資訊科技系
 興趣：打籃球、看電影
 修這門課的期望：學會 Linux 和 Docker
